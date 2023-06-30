@@ -5,10 +5,9 @@ Web Developer, Cybersecurity enthusiast & student
 -------------------------------------------------
 
 *   🌍  I'm based in Czech Republic
-*   🚀  I'm currently working on [ChatApplication](https://chatapp-icebreak.up.railway.app/)
-*   🧠  I'm learning React.js
+*   🚀  My last latest web project is [ChatApplication](https://chatapp-icebreak.up.railway.app/)
 
-### Languages and Tools I use
+### Languages and Tools I have used
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
