@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Filip</h1>
-<h3 align="center">Developer, Cybersecurity enthusiast & student</h3>
+<h1 align="left">Hi 👋, I'm Filip</h1>
+<h3 align="left">Developer, Cybersecurity enthusiast & student</h3>
 
 - 🔭 I’m currently working on **HabitTracker**
 
