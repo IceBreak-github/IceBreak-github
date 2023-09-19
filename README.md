@@ -1,7 +1,7 @@
 Hi 👋 My name is Filip
 ======================
 
-Web Developer, Cybersecurity enthusiast & student
+Developer, Cybersecurity enthusiast & student
 -------------------------------------------------
 
 *   🌍  I'm based in Czech Republic
@@ -30,3 +30,5 @@ Web Developer, Cybersecurity enthusiast & student
 ### Badges
 
 <a href="https://github.com/IceBreak-github" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceBreak-github&layout=compact)](https://github.com/IceBreak-github/github-readme-stats" alt="Top Languages" /></a>
+
+[![IceBreaks-github's GitHub stats](https://github-readme-stats.vercel.app/api?username=IceBreak-github)](https://github.com/IceBreak-github/github-readme-stats)
