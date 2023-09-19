@@ -29,4 +29,4 @@ Developer, Cybersecurity enthusiast & student
 
 ### Badges
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceBreak-github&layout=compact)](https://github.com/IceBreak-github/github-readme-stats" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceBreak-github)](https://github.com/IceBreak-github/github-readme-stats" alt="Top Languages" />
