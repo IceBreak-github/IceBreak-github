@@ -16,7 +16,8 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/55202745?s=200&v=4" alt="dart" width="40" height="40"/> </a>   
+<a href="https://docs.hivedb.dev/#/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/55202745?s=200&v=4" alt="dart" width="40" height="40"/> </a>   
+<a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/12129/261752/icon/pluginIcon.png" alt="dart" width="40" height="40"/> </a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
